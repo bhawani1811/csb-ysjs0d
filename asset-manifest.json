@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bhawani1811.github.io/csb-ysjs0d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bhawani1811.github.io/csb-ysjs0d/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://bhawani1811.github.io/csb-ysjs0d/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://bhawani1811.github.io/csb-ysjs0d/static/js/runtime-main.cf4d39ef.js",
+    "runtime-main.js.map": "https://bhawani1811.github.io/csb-ysjs0d/static/js/runtime-main.cf4d39ef.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://bhawani1811.github.io/csb-ysjs0d/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://bhawani1811.github.io/csb-ysjs0d/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://bhawani1811.github.io/csb-ysjs0d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bhawani1811.github.io/csb-ysjs0d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://bhawani1811.github.io/csb-ysjs0d/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf4d39ef.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
